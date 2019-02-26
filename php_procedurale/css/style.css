@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    font-size: 16px;
+}
+
+
+.container {
+    min-height: 100%;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', Helvetica, cursive, sans-serif;
+    font-size: 1.6rem;
+}
+
+.call-to-action {
+    font-family: 'Pacifico', 'Oswald', cursive, sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.4;
+}
+
+a,
+h4,
+h5,
+h6 {
+    font-family: 'Oswald', cursive, sans-serif;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Pacifico', Helvetica, cursive, sans-serif;
+    line-height: 1.6;
+    font-size: 1.2rem;
+    border-bottom: 2px solid #FB1;
+}
+
+footer {
+    font-family: 'Oswald', Helvetica, cursive, sans-serif;
+    bottom: 0;
+    border-radius: 10px 5px;
+}
